@@ -1,0 +1,3 @@
+[01-Jun-2022 08:16:23 America/Chicago] PHP Fatal error:  Cannot declare class App\Controllers\Home, because the name is already in use in F:\xampp\htdocs\r49\CI\cicomposerproject\app\Controllers\About.php on line 4
+[02-Jun-2022 06:27:01 America/Chicago] PHP Fatal error:  Cannot declare class App\Controllers\Film because the name is already in use in F:\xampp\htdocs\r49\CI\cicomposerproject\app\Controllers\Film.php on line 8
+[18-Jun-2022 07:44:09 America/Chicago] PHP Fatal error:  Cannot redeclare d() (previously declared in F:\xampp\htdocs\r49\CI\cicomposerproject\vendor\kint-php\kint\init_helpers.php:37) in F:\xampp\htdocs\r49\CI\cicomposerproject\app\Helpers\Idb_helper.php on line 11

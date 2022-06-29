@@ -1,0 +1,1 @@
+square of <?php echo $firstval;?> and <?php echo $secondval;?> is <?php echo $firstval*$secondval;?>
